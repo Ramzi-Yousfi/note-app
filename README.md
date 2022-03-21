@@ -12,10 +12,11 @@ source .env/scripts/activate
 
 pip install flask
 
-pip install blueprint   
 ## the best way for rooting url ## 
+pip install blueprint   
 
-pip install sqlalchemy       
 ## connection to ower sql database##
+pip install sqlalchemy       
+
 
 enjoy :]
